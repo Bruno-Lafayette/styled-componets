@@ -1,4 +1,4 @@
-#Single Page Application - Lista de Produtos
+# Single Page Application - Lista de Produtos
 Este projeto é uma aplicação de página única (SPA) desenvolvida em React, utilizando styled-components para criar uma interface moderna e responsiva para exibir uma lista de produtos. O objetivo principal é demonstrar a estilização e a apresentação de produtos com informações como nome, preço e uma breve descrição.
 
 ##Objetivo
