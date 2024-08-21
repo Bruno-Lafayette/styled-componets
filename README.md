@@ -1,19 +1,19 @@
 # Single Page Application - Lista de Produtos
 Este projeto é uma aplicação de página única (SPA) desenvolvida em React, utilizando styled-components para criar uma interface moderna e responsiva para exibir uma lista de produtos. O objetivo principal é demonstrar a estilização e a apresentação de produtos com informações como nome, preço e uma breve descrição.
 
-##Objetivo
+## Objetivo
 Desenvolver um componente de lista de produtos que exibe uma lista de itens, com cada produto mostrando:
 
 - Nome
 - Preço
 - Breve descrição
 
-###Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 React: Biblioteca para construção de interfaces de usuário.
 styled-components: Biblioteca para estilização de componentes React com CSS-in-JS.
 
-###Pré-requisitos
+## Pré-requisitos
 
 Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina. Você pode verificar a instalação com os seguintes comandos:
 
@@ -23,7 +23,9 @@ node -v
 npm -v
 # ou
 yarn -v
-Instalação
+
+## Instalação
+
 Clone o Repositório
 
 Primeiro, clone este repositório para o seu ambiente local:
